@@ -29,6 +29,6 @@ We will work mainly with python within Google Colab. You can access the lab with
 | Thunchanok | Anongnat | Suradit | Prawit | Enrique | Thanathip | Oraphan  | Pattamaporn |
 | Joseph | Thanawut | Peeranut | Pimmada | Kitima | Pannasa | Thi Han | Nuttakit  |
 | Thitinun | Arnees | Kiattisak Sonram | Thasorn | Phutthipat | Narangkoon | Nuttapat | Wattanapol |
-| 1 | Thanatan | 3 | 4 | 5 | 6 | 7 | 8 |
+| - | Thanatan | - | - | - | - | - | - |
 
 
