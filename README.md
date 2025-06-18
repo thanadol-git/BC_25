@@ -21,14 +21,14 @@ We will work mainly with python within Google Colab. You can access the lab with
 5. Run the code in Google Colab.
 
 ## Groups 
-# Create table of 8 columns as group and 5 rows for each
+
 | Group 1 | Group 2 | Group 3 | Group 4 | Group 5 | Group 6 | Group 7 | Group 8 |
 |:-----|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Utid | Ruchanok | Thaned | Ratthaporn | Chatthawee | Waraporn | Kornkamon | Jiraporn |
 | Thammaporn | Thanayuth | Chanya | Mika | Nan | Panadda | Ketsaraporn | Tawatchai |
 | Thunchanok | Anongnat | Suradit | Prawit | Enrique | Thanathip | Oraphan  | Pattamaporn |
 | Joseph | Thanawut | Peeranut | Pimmada | Kitima | Pannasa | Thi Han | Nuttakit  |
-| Thitinun | Arnees | Kiattisak Sonram | Thasorn | Phutthipat | Narangkoon | Nuttapat | Wattanapol |
+| Thitinun | Arnees | Kiattisak | Thasorn | Phutthipat | Narangkoon | Nuttapat | Wattanapol |
 | - | Thanatan | - | - | - | - | - | - |
 
 
