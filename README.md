@@ -5,6 +5,7 @@ Welcome to the proteomics session of this workshop! We will mainly work with Pyt
 ## Agenda 
 
 |  Hour | Activity | TA |
+|:-----|:-----| :--------:| 
 |1300-1330|Introduction to Proteomics| TS |
 
 
