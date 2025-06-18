@@ -12,12 +12,9 @@ Welcome to the proteomics session of this workshop! We will mainly work with Pyt
 |1600-1640|Groupwork presentation| TS |
 |1640-1700|Future of Proteomics| TS |
 
-
-
-
 ## Steps 
 We will work mainly with python within Google Colab. You can access the lab with the steps below.
-1. Dowload `.ipynb` file to your local computer.
+1. Dowload analysis file (`.ipynb`) file to your local computer.
 2. Open Google [Colab](https://colab.research.google.com/).
 3. Upload the file to Google Colab in `Upload`. One can just drag and drop the file there. 
 4. You may need to upload the input files to Google Colab as well.
