@@ -2,6 +2,13 @@
 
 Welcome to the proteomics session of this workshop! We will mainly work with Python and Google Colab to analyze proteomics data. As we have grouped participant randomly into groups, please try to find your group member before starting this session. 
 
+## Agenda 
+
+|  Hour | Activity | TA |
+|1300-1330|Introduction to Proteomics| TS |
+
+
+
 ## Steps 
 We will work mainly with python within Google Colab. You can access the lab with the steps below.
 1. Dowload `.ipynb` file to your local computer.
