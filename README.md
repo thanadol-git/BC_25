@@ -24,7 +24,18 @@ We will work mainly with python within Google Colab. You can access the lab with
 
 | Group | Tissue | 
 |:-----|:--------:|
-| 1 | Ruchanok | 
+| 1 | Blood | 
+| 2 | Bone | 
+| 3 | Brain |
+| 4 | Breast |
+| 5 | Esophagus |
+| 6 | Haematopoietic and Lymphoid |
+| 7 | Kidney |
+| 8 | Lung |
+| 9 | Ovary |
+| 10 | Skin |
+
+
 
 
 ## Links 
