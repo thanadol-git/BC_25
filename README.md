@@ -9,9 +9,8 @@ Welcome to the proteomics session of this workshop! We will mainly work with Pyt
 |:-----|:-----| :--------:| 
 |1300-1330|Introduction to Proteomics| TS |
 |1330-1430|Hands-on HPA and MS data| TS |
-|1530-1550|Swedish Fika| TS |
-|1600-1640|Groupwork presentation| TS |
-|1640-1700|Future of Proteomics| TS |
+|1430-1530|Swedish Fika| TS |
+|1530-1600|Groupwork presentation| TS |
 
 ## Steps 
 We will work mainly with python within Google Colab. You can access the lab with the steps below.
