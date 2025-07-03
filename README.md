@@ -1,5 +1,6 @@
-# SCBC Workshop 2025 
+ ![scbc header](https://github.com/user-attachments/assets/146620d4-21f2-4b59-92f5-41490b98d566)
 
+# SCBC Workshop 2025
 Welcome to the proteomics session of this workshop! We will mainly work with Python and Google Colab to analyze proteomics data. As we have grouped participant randomly into groups, please try to find your group members before starting this session. 
 
 ## Agenda 
