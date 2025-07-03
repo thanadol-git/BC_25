@@ -41,3 +41,4 @@ We will work mainly with python within Google Colab. You can access the lab with
 ## Links 
 
 - [DIANN Results](https://drive.google.com/drive/folders/10TvXAPK4PqsF6VVw49S7rVUoJQf16g4D?usp=sharing)
+- [slide](https://docs.google.com/presentation/d/1fTJsy_b8Ck5I5JFqOOEFCTDEJflWHJdTW1EANzBtfT8/edit?usp=sharing)
