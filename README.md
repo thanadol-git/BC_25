@@ -7,7 +7,7 @@ Welcome to the proteomics session of this workshop! We will mainly work with Pyt
 |  Hour | Activity | TA |
 |:-----|:-----| :--------:| 
 |1300-1330|Introduction to Proteomics| TS |
-|1330-1430|Hands-on MS data| TS |
+|1330-1430|Hands-on HPA and MS data| TS |
 |1530-1550|Swedish Fika| TS |
 |1600-1640|Groupwork presentation| TS |
 |1640-1700|Future of Proteomics| TS |
@@ -40,5 +40,4 @@ We will work mainly with python within Google Colab. You can access the lab with
 
 ## Links 
 
-# Link to DIANNSUMMARY
-- [Results](https://drive.google.com/drive/folders/10TvXAPK4PqsF6VVw49S7rVUoJQf16g4D?usp=sharing)
+- [DIANN Results](https://drive.google.com/drive/folders/10TvXAPK4PqsF6VVw49S7rVUoJQf16g4D?usp=sharing)
